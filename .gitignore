@@ -25,6 +25,8 @@ build/
 .env.test.local
 .env.production.local
 .env.*
+!.env.example
+
 
 # OS-specific files
 .DS_Store
